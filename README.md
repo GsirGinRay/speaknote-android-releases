@@ -18,7 +18,7 @@
 
 | 元件 | 授權 |
 |---|---|
-| [libchewing](https://github.com/chewing/libchewing)（注音引擎） | LGPL-2.1-or-later |
+| [libchewing](https://github.com/chewing/libchewing) 0.9.1（注音引擎）。依 LGPL 提供的原始碼與建置說明：[third_party/libchewing](third_party/libchewing) | LGPL-2.1-or-later |
 | [sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)（語音辨識 runtime） | Apache-2.0 |
 | [ONNX Runtime](https://github.com/microsoft/onnxruntime) | MIT |
 | SenseVoiceSmall by FunASR / FunAudioLLM（[模型說明](https://github.com/FunAudioLLM/SenseVoice)），使用 sherpa-onnx 的 int8 轉換版 `sherpa-onnx-sense-voice-zh-en-ja-ko-yue-int8-2024-07-17` | [FunASR Model License v1.1](https://github.com/modelscope/FunASR/blob/main/MODEL_LICENSE) |
